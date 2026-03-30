@@ -10,6 +10,4 @@ This project analyzes customer orders, payments, logistics and delivery performa
 - Logistics and delivery performance analysis
 - Business insight generation
 
-## Note
-This repository is private due to course guidelines.
-Access can be shared upon request.
+
